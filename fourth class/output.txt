@@ -1,0 +1,25 @@
+
+ ;)}
+;)rre ,':txt.tuptuo ot gnitirw rorrE'(rorre.elosnoc  
+{ >= )rre( ,'rorre'(no.maertSetirw
+;)}
+;)rre ,':txt.tupni morf gnidaer rorrE'(rorre.elosnoc  
+{ >= )rre( ,'rorre'(no.maertSdaer
+;)}
+;)'tuptuo ot nettirw neeb sah ataD'(gol.elosnoc  
+{ >= )( ,'hsinif'(no.maertSetirw
+;)}
+;)(dne.maertSetirw  
+;)ataDreffub(etirw.maertSetirw  
+{ >= )( ,'dne'(no.maertSdaer
+
+;)}
+;knuhCdeifidom =+ ataDreffub  
+;)(esaCreppUot.)(gnirtSot.knuhc = knuhCdeifidom tsnoc  
+{ >= )knuhc( ,'atad'(no.maertSdaer
+
+;'' = ataDreffub tel
+;)'8-ftu' ,'txt.tuptuo'(maertSetirWetaerc.sf = maertSetirw tsnoc
+;)'8-ftu' ,'txt.tupni'(maertSdaeRetaerc.sf = maertSdaer tsnoc
+;)'sf'(eriuqer = sf tsnoc
+
